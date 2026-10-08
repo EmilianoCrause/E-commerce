@@ -2,7 +2,7 @@
 
 > Plataforma de comercio electrónico completa desarrollada como proyecto final del curso Jóvenes a Programar (JAP). Sistema web con carrito de compras, gestión de productos, perfiles de usuario, autenticación JWT y proceso de checkout completo.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repositorio-blue?logo=github)](https://github.com/EmilianoCrause/proyecto_final)
+[![GitHub](https://img.shields.io/badge/GitHub-Repositorio-blue?logo=github)](https://github.com/EmilianoCrause/E-commerce)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
@@ -133,7 +133,7 @@
 ## 📁 Estructura del Proyecto
 
 ```
-proyecto_final/
+E-commerce/
 │
 ├── index.html              # Página principal con carousel
 ├── login.html              # Autenticación
@@ -199,8 +199,8 @@ proyecto_final/
 
 1. **Clonar repositorio**
    ```bash
-   git clone https://github.com/EmilianoCrause/proyecto_final.git
-   cd proyecto_final
+   git clone https://github.com/EmilianoCrause/E-commerce.git
+   cd E-commerce
    ```
 
 2. **Configurar Backend**
@@ -738,7 +738,7 @@ node Server.js  # Recreará la BD con usuarios default
 
 ## 📞 Contacto
 
-**Repositorio:** [github.com/EmilianoCrause/proyecto_final](https://github.com/EmilianoCrause/proyecto_final)
+**Repositorio:** [github.com/EmilianoCrause/E-commerce](https://github.com/EmilianoCrause/E-commerce)
 
 **Curso:** [Jóvenes a Programar](https://jovenesaprogramar.edu.uy/)
 
